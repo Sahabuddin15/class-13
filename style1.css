@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.top-box{
+  height: 100px;
+  width: 100%;
+  background-color: rgb(251, 255, 0);
+}
+.top-box img{ display: flex;
+  height: 100px;
+  width: 150px;
+}
+.icon-fb{
+  float: right;
+  height: 30px;
+}
+.top-box label{
+  font-size: 30px;
+  font-weight: 600;
+ padding-top: 10px;
+}
+.top-box input{
+  padding: 10px;
+  width: 50%;
+}

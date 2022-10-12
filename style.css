@@ -1,0 +1,230 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.containar{
+ height: 100px;
+ width: 100%;
+}
+.logo-height{
+  height: 100px;
+  width: 16%;
+  background-color:yellowgreen;
+  float: left;
+}
+.logo-img{
+  height: 100px;
+  width: 90%;
+}
+.scarce-box-height{
+  height: 100px;
+  width: 68%;
+  background-color: yellowgreen;
+ float: left;
+}
+.search-label{
+    font-size: 29px;
+    font-weight: 1000px;
+    color: rgb(0, 0, 0);
+    padding: 12px;
+    font-style: initial;
+    padding-left: 4px;
+}
+.searce-box{
+  border: none;
+  outline: none;
+  padding: 7px;
+  width: 89%;
+  border-radius: 5px;
+  border: 1px solid red;
+}
+.searce-button{
+  outline: none;
+  border: none;
+  color: #4a008f;
+  padding: 7px;
+  font-weight: 500px;
+  border: 1px solid red;
+  border-radius: 5px;
+  margin-top: -11px;
+  background-color: pink;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.icon-box{
+  height: 100px;
+  width: 16%;
+  background-color: yellowgreen;
+  float: left;
+  cursor: pointer;
+}
+.social-icon{
+  width: 16%;
+  float: left;
+  margin-top: 30px;
+}
+.fb-icon{
+  height: 30px;
+}
+.g-icon{
+  height: 30px;
+}
+.li-icon{
+  height: 30px;
+  padding-left: 7px;
+  
+}
+.ins-icon{
+  height: 30px;
+  padding-left: 6px;
+}
+.manu-height{
+  height: 700px;
+  width: 16%;
+  background-color: green;
+}
+.manu-height ul{
+  list-style: none;
+}
+.manu-height ul li{
+  display: flex;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 19px;
+  padding-left: 9px;
+  border: 1px solid;
+}
+.manu-height ul li a{
+  text-decoration: none;
+  color: white;
+}
+.manu-height ul :hover{
+  color: black;
+  background-color: rgb(255, 255, 75);
+  font-weight: bolder;
+}
+
+.box-1{
+  height: 118px;
+  width: 200px;
+  background-color: #0c469eab;
+  margin-left: 256px;
+  margin-top: -594px;
+  cursor: pointer;
+}
+.box-1 p{
+  color: white;
+  font-size: 46px;
+  font-weight: bolder;
+  padding: 29px;
+}
+.box-2{
+  height: 118px;
+  width: 214px;
+  background-color: yellowgreen;
+  margin-left: 510px;
+  margin-top: -118px;
+  cursor: pointer;
+}
+.box-2 p{
+  color: white;
+  font-size: 46px;
+  font-weight: bolder;
+  padding: 29px;
+}
+.box-3{
+height: 118px;
+width: 200px;
+background-color: #07eaae;
+margin-left: 763px;
+margin-top: -119px;
+cursor: pointer;
+}
+.box-3 p{
+  color: white;
+  font-size: 46px;
+  font-weight: bolder;
+  padding: 29px;
+}
+.box-4{
+  height: 118px;
+  width: 200px;
+  background-color: rgb(50, 205, 50);
+  margin-left: 1000px;
+  margin-top: -119px;
+  cursor: pointer;
+}
+.box-4 p{
+  color: white;
+  font-size: 46px;
+  font-weight: bolder;
+  padding: 29px;
+}
+.product-img{
+  height: 100%;
+  width: 100%;
+}
+.heading-box{
+  float: right;
+  height: 100px;
+  margin-top:10px;
+  width: 84%;
+  background-color: yellowgreen;
+  border: 1px solid black;
+}
+.scarce-box2-height{
+  height: 100px;
+  width: 68%;
+  background-color: yellowgreen;
+ float: left;
+}
+.product-head{
+  margin-top: 12px;
+  padding: 17px;
+}
+.search-label-2{
+  float: right;
+    font-size: 29px;
+    color: rgb(0, 0, 0);
+    padding: 12px;
+    display: flex;
+    font-style: initial;
+    padding-left: 207px;
+    margin-top: -88px;
+}
+.searce-box-2{
+  float: right;
+  color: rgb(0, 0, 0);
+  padding: 7px;
+  display: flex;
+  font-style: initial;
+  margin-top: -42px;
+  margin-right: -250px;
+  width: 47%;
+  border-radius: 5px;
+}
+.searce-button-2{
+  outline: none;
+  float: right;
+  margin-right: -314px;
+  padding: 7px;
+  border-radius: 5px;
+  margin-top: -43px;
+  background-color: plum;
+}
+.tabel-area{
+  float: left;
+  margin-top: 6px;
+  height: 360px;
+  width: 100%;
+  background-color: rgb(50, 205, 89);
+}
+.raw {
+ background-color: azure;
+   color: rgb(0, 0, 0);
+   font-size: 30px;
+   margin-top: 5px;
+}
